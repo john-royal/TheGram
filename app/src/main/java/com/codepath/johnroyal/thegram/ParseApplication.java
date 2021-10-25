@@ -1,6 +1,8 @@
 package com.codepath.johnroyal.thegram;
 
 import android.app.Application;
+
+import com.codepath.johnroyal.thegram.models.Post;
 import com.parse.Parse;
 import com.parse.ParseObject;
 
